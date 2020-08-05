@@ -15,3 +15,13 @@ require("channels")
 //
 // const images = require.context('../images', true)
 // const imagePath = (name) => images(name, true)
+
+//=require jquery
+//=require popper
+//=require bootstrap
+//=require rails-ujs
+//=require sb-admin-2.min
+//=require activestorage
+//=require turbolinks
+//=require_tree
+
